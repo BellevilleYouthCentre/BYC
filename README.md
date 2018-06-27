@@ -22,18 +22,15 @@ We provide an environment for youth, no matter their background, race, gender or
 >#becomewhoyouare
 
 # FIND US
-:stuck_out_tongue_winking_eye:
 
 19-21 Wallbridge Crescent
 Belleville, Ontario
 
-# Call 
+## Call 
 
 (613) 968-6628
 
-# About
-
-YOUTH CENTRE HOURS:
+## YOUTH CENTRE HOURS:
 
 3:00 - 6:00 PM: MONDAY TO FRIDAY
 
