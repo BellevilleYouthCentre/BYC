@@ -26,7 +26,7 @@ We provide an environment for youth, no matter their background, race, gender or
 19-21 Wallbridge Crescent
 Belleville, Ontario
 
-## Call 
+## CAll
 
 (613) 968-6628
 
