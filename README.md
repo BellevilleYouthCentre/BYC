@@ -23,6 +23,8 @@ We provide an environment for youth, no matter their background, race, gender or
 
 # FIND US
 
+## ADDRESS
+
 19-21 Wallbridge Crescent
 Belleville, Ontario
 
@@ -32,6 +34,6 @@ Belleville, Ontario
 
 ## YOUTH CENTRE HOURS:
 
-3:00 - 6:00 PM: MONDAY TO FRIDAY
+3:00 - 6:00 PM: Monday to Friday
 
-AGES 12-18 CAN REGISTER TO BE MEMBERS
+Ages 12 - 18 can register to become members
